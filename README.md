@@ -24,3 +24,11 @@ target: _blank; (para que te dirija a otra pagina)
 ```
 
 ### Creamos el Footer
+
+## Link a github y Netlify
+
+```sh
+https://github.com/GiannMlclz/desafio-05
+https://desafio-05-gian.netlify.app/
+```
+
