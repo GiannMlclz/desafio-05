@@ -31,4 +31,9 @@ target: _blank; (para que te dirija a otra pagina)
 https://github.com/GiannMlclz/desafio-05
 https://desafio-05-gian.netlify.app/
 ```
+### Validamos y corregimos todos los errores del proyecto
+
+```sh
+https://validator.w3.org/nu/
+```
 

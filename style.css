@@ -23,6 +23,10 @@ h2 {
   font-size: 20px;
 }
 
+.circle {
+  list-style-type: circle;
+}
+
 footer {
   height: 100px;
   background-color: black;
