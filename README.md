@@ -21,3 +21,6 @@ ul>li*x
 ol>li*x
 <b></b>
 target: _blank; (para que te dirija a otra pagina)
+```
+
+### Creamos el Footer
