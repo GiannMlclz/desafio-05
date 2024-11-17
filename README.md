@@ -10,6 +10,14 @@ Git init
 
 ```sh
 <img src="" alt="">
-ul>li*4 /// <span> <span/>
+<a href=""></a> /// <span> </span>
 h1
 ```
+
+### aplicamos las etiquetas de Listas desordenadas y ordenadas, incluyendo links y estilizando
+
+```sh
+ul>li*x
+ol>li*x
+<b></b>
+target: _blank; (para que te dirija a otra pagina)
